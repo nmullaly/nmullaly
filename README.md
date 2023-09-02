@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **nmullaly/nmullaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi! I'm Nate Mullaly (They/Them)
+
+Currently, I'm working in a program where I will learn full stack development, starting with Java, followed by SQL, HTML, CSS, and JavaScript.
+
+Previously, I attended three part-time semesters at Cuyahoga Community College for an Associate's degree in Programming and Software Development.
