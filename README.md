@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 
 Hi! I'm Nate Mullaly (They/Them)
 
-Currently, I'm working in a program where I will learn full stack development, starting with Java, followed by SQL, HTML, CSS, and JavaScript.
-
-Previously, I attended three part-time semesters at Cuyahoga Community College for an Associate's degree in Programming and Software Development.
+Just finished a bootcamp where I learned full stack development, including Java and Vue 3.
